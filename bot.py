@@ -176,8 +176,9 @@ def claim_tasks(access_token):
 def print_welcome_message():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Color.OKBLUE + "-" * 40 + Color.ENDC)
-    print(Color.OKGREEN + "Bot free From AirdropfamilyIDN" + Color.ENDC)
-    print(Color.OKGREEN + "Ga di Encrypt Biar kalau mau maling Gampang" + Color.ENDC)
+    print(Color.OKGREEN + "SecondLive BOT" + Color.ENDC)
+    print(Color.OKGREEN + "Created by Nofan Rambe" + Color.ENDC)
+    print(Color.OKGREEN + "https://github.com/Rambeboy" + Color.ENDC)
     print(Color.OKBLUE + "-" * 40 + Color.ENDC)  
 
 def countdown_timer(seconds):
