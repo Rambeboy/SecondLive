@@ -1,4 +1,2 @@
-  queryid1
-  queryid2
-  queryid3
-  queryid4
+user=
+query_id=
